@@ -1,0 +1,42 @@
+# LexiAI Chatbot
+
+A modern, responsive AI chatbot interface built with **HTML, CSS, and JavaScript**. The chatbot can interact with users and display messages in a professional, clean interface.  
+
+---
+
+## Features
+
+- Modern dark-themed UI  
+- Responsive design for mobile and desktop  
+- User and bot chat bubbles  
+- Smooth scrolling for messages  
+- Input field with `Enter` key support  
+- Professional layout with header and chat container  
+
+---
+
+## Screenshot
+
+![LexiAI Chatbot Screenshot](thumbnail.png)
+
+---
+
+## Technologies & Tools
+
+- **HTML5** – Structure of the chatbot  
+- **CSS3** – Styling and responsive design  
+- **JavaScript (Vanilla JS)** – Chat functionality  
+- **Google Fonts** – Modern typography (`Inter`)  
+- **Gemini API / OpenAI API** – Optional AI-powered responses  
+- **VS Code** – Recommended IDE for editing  
+- **Git & GitHub** – Version control and hosting  
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/fsafiya187/LexiAI-Chatbot.git
+cd LexiAI-Chatbot
